@@ -5,7 +5,7 @@ This portal will be helpful in monitoring student’s progress periodically. Als
 
 - Link to Project Report : [Report.pdf](https://github.com/hs2310/pmms/files/5264010/mini_print1.pdf)
 
-snapshots of the implementation : 
+Snapshots of the implementation : 
 ---
 - Login 
 
